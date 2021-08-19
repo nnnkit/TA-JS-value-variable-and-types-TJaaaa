@@ -1,5 +1,3 @@
-writeCode
-
 ## JavaScript in HTML file
 
 1. Create a `html` file named `internal.html` in `code` folder
